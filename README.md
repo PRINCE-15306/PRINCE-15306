@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Patel</b></h1>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDarshPatel4%2FDarshPatel4&label=VISITORS&countColor=%23263759&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDarshPatel4%2FPRINCE-15306&label=VISITORS&countColor=%23263759&labelStyle=upper)
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning DSA, PHP, Web Development.</li>
 
